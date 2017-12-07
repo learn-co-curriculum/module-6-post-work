@@ -92,7 +92,7 @@ These lists are not meant to be exhaustive but to give you some context of where
 * [YouDontKnowJS](https://github.com/getify/You-Dont-Know-JS)
 * [EloquentJavascript](http://eloquentjavascript.net/)
 * [RailsTutorial](http://eloquentjavascript.net/)
-* [POODER](http://www.poodr.com/)
+* [POODR](http://www.poodr.com/)
 
 ## Recommended Video Series
 
