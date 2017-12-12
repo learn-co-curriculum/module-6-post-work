@@ -83,20 +83,73 @@ Have fun. Go get it!
 
 ---
 
+## Sample Schedule
 
-These lists are not meant to be exhaustive but to give you some context of where to start if you can't find books to start reading:
+Use the below schedule as a template for your weeks following graduation. It does not have to be exactly like the template below but note some key details
 
-## Recommended Books
+ * Working on a personal project
+ * Solving algorithm problems 3 times a week
+ * Learning new skills
+ * Blogging
+
+Your week should encompass **all** of the details in some form in addition to your career services commitments 
+ 
+### Monday 
+
+* Half of your day is on career stuff, setting up appointments, reassessing your schedule, meetups, responding to emails
+
+* The remainder of the day should be focused on getting back into your project. The first couple of steps here is looking back at your trello board and figuring out what your week sprint is going to look like. This is a good time to assess the direction of your project and also figure out your feature for that day.
+* Monday is also a good day to sneak in an hour with HackerRank. This gets your brain back into the zone from maybe a lazy Sunday 
+
+### Tuesday
+
+* You should have planned out your project sprint so you should know exactly what features you will be tackling today. 
+* Of course make time to respond to any emails that came in late Monday but Tues should be project focused
+* Take some time on Tuesday to start thinking about your blog for this week. Make some bullet points of an outline. Do some google searching. Start organizing your thoughts
+
+
+### Wednesday 
+* Make time to do at least 2 problems on Hacker Rank. Remember consistency is key to getting good at these problems
+* You should be focusing on continuing with your project 
+
+
+### Thursday 
+* Reply to employer emails 
+* Use Thursday to write your blog. Unlike during the program, a blog shouldn't take a week to write especially since you have already done your outline. Sit down for a few hours and begin writing. 
+* Thursday should also be a day for finishing off your sprint for the week. At this point, if you haven't merged into your master branch you should consider doing so. Note only merge a fully developed feature into master. 
+
+
+### Friday
+
+
+* By Friday you should have finished your feature. Your morning can consist of adding any finishing touches. Use Friday to refactor your code and clean it up. You should be following the "Make it Work then Make it Perfect" Mantra. By doing this you will introduce fewer bugs into your code and will have to spend less time cleaning it up later before you send it to an employer. 
+
+* Friday is a good day to focus on learning new things. Give yourself a day to reassess where you're at and learn new things you can integrate into your project. Spend some time on a course you have started. Friday is a great day to find new things to learn that you will later be able to integrate into your project. 
+
+* Find an hour to work on Hacker Rank problems. Remember consistency is key 
+
+
+### Weekend 
+* On the weekends you don't need to have the same flow but don't completely ignore code for both days. Right now it is crucial for you to be developing your coding muscle memory so even if you do not work on your project, you should be tackling a HackerRank problem or focusing on the course you started. 
+
+
+
+
+
+
+
+## Resources
+
+These lists are not meant to be exhaustive but to give you some context of where to start if you can't find books to start reading
+
+### Recommended Books
 
 * [FullStackReact](https://www.fullstackreact.com/)
 * [YouDontKnowJS](https://github.com/getify/You-Dont-Know-JS)
 * [EloquentJavascript](http://eloquentjavascript.net/)
 * [RailsTutorial](http://eloquentjavascript.net/)
-* [POODR](http://www.poodr.com/)
 
-## Recommended Video Series
+### Recommended Video Series
 
 * [Idiomatic Redux - Dan Abramov](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
-* [React Redux - Stephen Grider]
-(https://www.udemy.com/react-redux/learn/v4/t/lecture/4284638?start=0)
-* [JavaScript: Understanding the Weird Parts - Tony Alicea](https://www.youtube.com/watch?v=Bv_5Zv5c-Ts)
+* [React Redux - Stephen Grider](https://www.udemy.com/react-redux/learn/v4/t/lecture/4284638?start=0)
